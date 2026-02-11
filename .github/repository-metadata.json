@@ -1,0 +1,14 @@
+{
+    "name": "the-algorithm",
+    "description": "Source code for the X Recommendation Algorithm",
+    "version": "1.0.0",
+    "publisher": "nirholas",
+    "repository": "https://github.com/nirholas/the-algorithm",
+    "language": "Scala",
+    "topics": [
+        "nirholas",
+        "algorithm",
+        "the",
+        "open-source"
+    ]
+}

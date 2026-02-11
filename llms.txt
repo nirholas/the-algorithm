@@ -1,0 +1,9 @@
+# the-algorithm
+
+> Source code for the X Recommendation Algorithm
+
+## Links
+
+- Repository: https://github.com/nirholas/the-algorithm
+- Author: https://github.com/nirholas
+- Full documentation: https://raw.githubusercontent.com/nirholas/the-algorithm/main/llms-full.txt

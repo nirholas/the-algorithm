@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use the-algorithm, please cite it as below."
+type: software
+title: "the-algorithm"
+abstract: "Source code for the X Recommendation Algorithm"
+authors:
+  - alias: nirholas
+    name: nirholas
+repository-code: "https://github.com/nirholas/the-algorithm"
+url: "https://github.com/nirholas/the-algorithm"
+license: MIT
+version: "1.0.0"
+date-released: "2026-02-11"
+keywords:
+  - open-source
+  - nirholas

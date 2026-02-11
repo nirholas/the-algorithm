@@ -1,0 +1,16 @@
+{
+    "schema_version": "v1",
+    "name_for_human": "the-algorithm",
+    "name_for_model": "the_algorithm",
+    "description_for_human": "Source code for the X Recommendation Algorithm",
+    "description_for_model": "Source code for the X Recommendation Algorithm",
+    "auth": {
+        "type": "none"
+    },
+    "api": {
+        "type": "none"
+    },
+    "logo_url": "https://github.com/nirholas.png",
+    "contact_email": "nirholas@users.noreply.github.com",
+    "legal_info_url": "https://github.com/nirholas/the-algorithm/blob/main/LICENSE"
+}

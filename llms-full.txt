@@ -1,0 +1,18 @@
+# the-algorithm
+
+> Source code for the X Recommendation Algorithm
+
+## Overview
+
+the-algorithm is an open-source project by nirholas. Source code for the X Recommendation Algorithm
+
+## Repository
+
+- URL: https://github.com/nirholas/the-algorithm
+- Language: Scala
+- License: MIT
+- Author: nirholas
+
+## Contributing
+
+Contributions are welcome. See CONTRIBUTING.md for guidelines.
